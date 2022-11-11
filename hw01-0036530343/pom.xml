@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>hr.fer.oprpp1.jmbag0036530343</groupId>
+  <artifactId>hw01-0036530343</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <name>hw01-0036530343</name>
+  
+  <properties>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  	<junit.jupiter.version>5.9.1</junit.jupiter.version>
+  	<maven.compiler.source>17</maven.compiler.source>
+	<maven.compiler.target>17</maven.compiler.target>
+  </properties>
+  
+  <dependencies>
+  	<dependency>
+    	<groupId>org.junit.jupiter</groupId>
+    	<artifactId>junit-jupiter</artifactId>
+    	<version>${junit.jupiter.version}</version>
+    	<scope>test</scope>
+	</dependency>
+  </dependencies>
+  
+  
+  
+</project>
