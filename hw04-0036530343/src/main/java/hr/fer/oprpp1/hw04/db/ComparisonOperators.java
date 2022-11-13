@@ -1,7 +1,8 @@
 package hr.fer.oprpp1.hw04.db;
 
-import hr.fer.oprpp1.hw04.db.IComparisonOperator;
-
+/**
+ * This class represents comparison operators with implementation of IComparisonOperator interface
+ */
 public class ComparisonOperators {
 
     public static final IComparisonOperator LESS = new IComparisonOperator() {

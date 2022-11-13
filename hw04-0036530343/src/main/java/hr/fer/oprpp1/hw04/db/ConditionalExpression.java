@@ -1,5 +1,8 @@
 package hr.fer.oprpp1.hw04.db;
 
+/**
+ * This class represents tuple for expression that is used for filtering student records from database.
+ */
 public class ConditionalExpression {
 
     private IFieldValueGetter fieldGetter;

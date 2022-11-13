@@ -1,14 +1,37 @@
 package hr.fer.oprpp1.hw04.db;
 
 import java.util.HashMap;
+import java.util.Objects;
 
+/**
+ * This class represents informations about student's record
+ */
 public class StudentRecord {
 
+    /**
+     * Student's jmbag.
+     */
     private String jmbag;
+    /**
+     * Student's last name.
+     */
     private String lastName;
+    /**
+     * Student's first name.
+     */
     private String firstName;
+    /**
+     * Student's final grade.
+     */
     private int finalGrade;
 
+    /**
+     * This contructor initilazes student's record.
+     * @param jmbag
+     * @param lastName
+     * @param firstName
+     * @param finalGrade
+     */
     public StudentRecord(String jmbag, String lastName, String firstName, int finalGrade) {
         this.jmbag = jmbag;
         this.lastName = lastName;
@@ -49,7 +72,9 @@ public class StudentRecord {
      */
     @Override
     public int hashCode() {
-        return super.hashCode();
+
+        return Objects.hash(jmbag, lastName, firstName);
+
     }
 
     /**
@@ -108,21 +133,33 @@ public class StudentRecord {
      */
     @Override
     public boolean equals(Object obj) {
-        return ((StudentRecord) obj).jmbag == this.jmbag;
+        return obj.hashCode() == this.hashCode();
     }
 
+    /**
+     * @return student's jmbag
+     */
     public String getJmbag() {
         return jmbag;
     }
 
+    /**
+     * @return student's last name
+     */
     public String getLastName() {
         return lastName;
     }
 
+    /**
+     * @return student's first name
+     */
     public String getFirstName() {
         return firstName;
     }
 
+    /**
+     * @return student's final grade
+     */
     public int getFinalGrade() {
         return finalGrade;
     }

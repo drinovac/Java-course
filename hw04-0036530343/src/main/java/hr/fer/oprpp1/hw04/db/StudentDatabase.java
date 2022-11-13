@@ -8,12 +8,26 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * This class represents database of student records
+ */
 public class StudentDatabase {
 
+    /**
+     * Map for storing records.
+     */
     Map<Integer, StudentRecord> studentRecords;
 
+    /**
+     * List for reading all lines.
+     */
     List<String> list;
 
+    /**
+     * Constructor
+     * @param path Path of database file
+     * @throws IOException
+     */
     public StudentDatabase(String path) throws IOException {
 
         list = Files.readAllLines(Path.of(path));
@@ -38,10 +52,20 @@ public class StudentDatabase {
 
     }
 
+    /**
+     * This method gets record in O(1)
+     * @param jmbag
+     * @return Student record with specified jmbag
+     */
     public StudentRecord forJMBAG(String jmbag) {
         return studentRecords.get(Integer.parseInt(jmbag));
     }
 
+    /**
+     * This method returns new list of student records that remain after filter
+     * @param filter
+     * @return List of student records
+     */
     public List<StudentRecord> filter(IFilter filter) {
 
         List<StudentRecord> list = new ArrayList<>();
