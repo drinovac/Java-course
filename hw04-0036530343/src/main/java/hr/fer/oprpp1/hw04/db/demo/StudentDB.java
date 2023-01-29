@@ -1,4 +1,9 @@
-package hr.fer.oprpp1.hw04.db;
+package hr.fer.oprpp1.hw04.db.demo;
+
+import hr.fer.oprpp1.hw04.db.QueryParser;
+import hr.fer.oprpp1.hw04.db.RecordFormatter;
+import hr.fer.oprpp1.hw04.db.StudentDatabase;
+import hr.fer.oprpp1.hw04.db.StudentRecord;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -332,6 +332,8 @@ public class LinkedListIndexedCollection<T> implements List<T> {
 		
 		return false;
 	}
+
+
 	/**
 	 * This local static class implements interface ElementsGetter which has two methods.
 	 */

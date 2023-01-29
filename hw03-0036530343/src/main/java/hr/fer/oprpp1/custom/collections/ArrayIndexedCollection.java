@@ -1,6 +1,7 @@
 package hr.fer.oprpp1.custom.collections;
 
 
+import java.util.Arrays;
 import java.util.ConcurrentModificationException;
 import java.util.NoSuchElementException;
 
@@ -29,7 +30,7 @@ public class ArrayIndexedCollection<T> implements List<T> {
 	 * @param size initial capatity
 	 * @param elements Collection which elements will be added
 	 */
-	private ArrayIndexedCollection(int size, T[] elements) {
+	public ArrayIndexedCollection(int size, T[] elements) {
 		if(elements == null) {
 			throw new NullPointerException();
 		}
@@ -121,6 +122,7 @@ public class ArrayIndexedCollection<T> implements List<T> {
 		}
 		return false;
 	}
+
 
 
 	@Override

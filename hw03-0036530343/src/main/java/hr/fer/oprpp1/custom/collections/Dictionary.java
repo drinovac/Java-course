@@ -55,17 +55,24 @@ public class Dictionary<K,V> {
     public V put(K key, V value) {
         Objects.requireNonNull(key);
 
-        Pair<K,V> new_par = new Pair<>(key, value);
+
 
         if(this.get(key) != null) {
-            //System.out.println(this.get(key));
-            // promijenit
-            V val = this.get(key);
-            this.remove(key);
-            array.add(new_par);
+
+            ElementsGetter<Pair<K,V>> getter = array.createElementsGetter();
+            V val = null;
+            while(getter.hasNextElement()) {
+                Pair<K,V> pair = getter.getNextElement();
+                if(pair.getKey().equals(key)) {
+                    val = pair.getValue();
+                    pair.setValue(value);
+                    break;
+                }
+            }
             return val;
         } else {
-            array.add(new_par);
+            Pair<K,V> newPar = new Pair<>(key, value);
+            array.add(newPar);
             return null;
         }
 
@@ -79,15 +86,16 @@ public class Dictionary<K,V> {
     public V get(Object key) {
         Objects.requireNonNull(key);
 
-        Object[] pairs =  this.array.toArray();
-
         if(this.size() == 0) {
             return null;
         }
 
-        for(Object par : pairs) {
-            if(((Pair<K,V>) par).getKey().equals(key)) {
-                return ((Pair<K,V>)par).getValue();
+        ElementsGetter<Pair<K,V>> getter = array.createElementsGetter();
+
+        while(getter.hasNextElement()) {
+            Pair<K,V> pair = getter.getNextElement();
+            if (pair.getKey().equals(key)) {
+                return pair.getValue();
             }
         }
 
@@ -104,13 +112,14 @@ public class Dictionary<K,V> {
     public V remove(K key) {
         Objects.requireNonNull(key);
 
-        Object[] pairs = this.array.toArray();
+        ElementsGetter<Pair<K,V>> getter = array.createElementsGetter();
 
-        for(Object par : pairs) {
-            if(((Pair<K,V>)par).getKey().equals(key)) {
-                V value = ((Pair<K,V>)par).getValue();
-                array.remove(par);
-                return value;
+        while(getter.hasNextElement()) {
+            Pair<K,V> pair = getter.getNextElement();
+            if (pair.getKey().equals(key)) {
+                V val = pair.getValue();
+                array.remove(pair);
+                return val;
             }
         }
         return null;

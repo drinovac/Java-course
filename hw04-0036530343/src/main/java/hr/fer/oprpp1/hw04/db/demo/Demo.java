@@ -68,5 +68,8 @@ public class Demo {
                 System.out.println(r.getJmbag() + " " + r.getLastName() + " " + r.getFirstName());
             }
         }
+
+
     }
+
 }

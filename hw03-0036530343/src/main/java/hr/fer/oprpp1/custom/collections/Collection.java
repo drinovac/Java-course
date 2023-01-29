@@ -1,6 +1,9 @@
 package hr.fer.oprpp1.custom.collections;
 
 
+import java.lang.reflect.Executable;
+import java.util.function.Function;
+
 /**
  * This interface represents collection.
  */
@@ -44,7 +47,7 @@ public interface Collection<T>{
      * @return True if object is removed, false otherwise
      */
 	boolean remove(Object o);
-	
+
 	/**
      * This method converts collection to Object array.
      *
@@ -97,7 +100,7 @@ public interface Collection<T>{
 	 * @param col Collection which elements are checked
 	 * @param tester Condition for selection
 	 */
-	default void addAllSatisfying(Collection<? extends T> col, Tester<T> tester) {
+	default void addAllSatisfying(Collection<? extends T> col, Tester<? super T> tester) {
 		ElementsGetter<? extends T> getter = col.createElementsGetter();
 
 		while(getter.hasNextElement()) {
@@ -106,6 +109,20 @@ public interface Collection<T>{
 				this.add(t);
 			}
 
+		}
+	}
+
+
+	default void copyTransformedIntoIfAllowed(Collection<Object> druga, Processor<?> processor, Function<?,?> function) {
+
+
+		Collection<? extends Object> pom = new LinkedListIndexedCollection<>(this);
+
+		ElementsGetter<? extends Object> getter =  pom.createElementsGetter();
+
+		while(getter.hasNextElement()) {
+			Object o = getter.getNextElement();
+			processor.process(o);
 		}
 	}
 }
