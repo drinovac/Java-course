@@ -19,7 +19,9 @@ public class StackDemo {
 			} catch(NumberFormatException e) {
 				int first = (int) stack.pop();
 				int second = (int) stack.pop();
-				
+
+
+
 				int res = 0;
 				if(s.equals("+")) {
 					res = second + first;
@@ -35,6 +37,15 @@ public class StackDemo {
 						System.exit(0);
 					}
 					
+				} else if (s.equals("bigger")) {
+					if (second >= first) {
+						res = second;
+					} else {
+						res = first;
+					}
+				} else if (s.equals("cubed")) {
+					res = (int) Math.pow(first, 3);
+					stack.push(second);
 				} else {
 					res = second % first;
 				}

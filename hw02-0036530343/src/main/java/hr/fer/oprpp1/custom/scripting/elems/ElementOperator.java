@@ -8,9 +8,6 @@ public class ElementOperator extends Element {
         this.symbol = symbol;
     }
 
-    public String getSymbol() {
-        return symbol;
-    }
 
     /**
      * @return

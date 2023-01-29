@@ -1,9 +1,7 @@
 package hr.fer.oprpp1.custom.scripting.elems;
 
-public class Element {
+public abstract class Element {
 
-    public String asText() {
-        return "";
-    }
+    public abstract String asText();
 
 }

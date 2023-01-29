@@ -8,10 +8,6 @@ public class ElementVariable extends Element {
         this.name = name;
     }
 
-    public String getName() {
-        return name;
-    }
-
     /**
      * @return
      */

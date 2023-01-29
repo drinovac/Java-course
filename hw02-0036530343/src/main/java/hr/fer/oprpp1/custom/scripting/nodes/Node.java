@@ -11,4 +11,5 @@ public abstract class Node {
     public abstract int numberOfChildren();
 
     public abstract Node getChild(int index);
+
 }

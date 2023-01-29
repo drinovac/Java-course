@@ -8,9 +8,6 @@ public class ElementFunction extends Element {
         this.name = name;
     }
 
-    public String getName() {
-        return name;
-    }
 
     /**
      * @return

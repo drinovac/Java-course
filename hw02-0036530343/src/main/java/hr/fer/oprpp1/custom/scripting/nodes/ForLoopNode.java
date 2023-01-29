@@ -9,7 +9,6 @@ public class ForLoopNode extends Node {
     private ElementVariable variable;
     private Element startExpression;
     private Element endExpression;
-
     private Element stepExpression;
     private ArrayIndexedCollection col;
 

@@ -4,11 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5745ae-42ae-4ba6-91ba-45277614a530" name="Changes" comment="" />
+    <list default="true" id="ea5745ae-42ae-4ba6-91ba-45277614a530" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw02-0036530343/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw03-0036530343/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Java-course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/fer/oprpp1/custom/collections/demo/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/fer/oprpp1/custom/collections/demo/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/fer/oprpp1/custom/collections/demo/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/fer/oprpp1/custom/collections/demo/StackDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptLexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptTokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptTokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/ForLoopNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/ForLoopNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/lexer/Lexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/DocumentNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/DocumentNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/EchoNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/EchoNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/ForLoopNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/ForLoopNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/TextNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/TextNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection$ElementsGetterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection$ElementsGetterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection$1LocalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection$1LocalClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Dictionary$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Dictionary$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Dictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ElementsGetterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ElementsGetterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/demo/StudentDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/src/test/java/hr/fer/oprpp1/hw04/db/StudentDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/src/test/java/hr/fer/oprpp1/hw04/db/StudentDatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ConditionalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ConditionalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/demo/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest$1AlwaysFalse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest$1AlwaysFalse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest$1AlwaysTrue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest$1AlwaysTrue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -21,20 +97,74 @@
     </option>
   </component>
   <component name="ProjectId" id="2HPQqvfWo0k0uZgcVlqMH6ZfF2M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.StackDemo">
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.demo.StackDemo" />
+      <module name="hw01-0036530343" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexedTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw01-0036530343" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.ArrayIndexedTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw01-0036530343" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.LinkedListTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackDemo" />
+        <item itemvalue="JUnit.LinkedListTester" />
+        <item itemvalue="JUnit.ArrayIndexedTester" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,10 +174,25 @@
       <option name="presentableId" value="Default" />
       <updated>1668184433813</updated>
       <workItem from="1668184435164" duration="41000" />
+      <workItem from="1669855106687" duration="1272000" />
+      <workItem from="1669858731732" duration="125000" />
+      <workItem from="1669901647212" duration="639000" />
+      <workItem from="1669902330459" duration="4971000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
