@@ -1,0 +1,11 @@
+{$= "text/html" @setMimeType $}
+<html>
+ <head>
+ <title>Color change</title>
+ </head>
+ <body>
+
+ <a href="/index2.html"><h2>Back to Home</h1></a><br>
+ <p> {$= "message" "" @tparamGet $} </p>
+ </body>
+</html>

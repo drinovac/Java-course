@@ -1,0 +1,15 @@
+{$= "text/html" @setMimeType $}
+<html>
+ <head>
+ <title>Time</title>
+ <style>
+    body \{ background-image: url("{$= "bgimage" "FFFFFF" @pparamGet $}");}
+ </style>
+ </head>
+ <body>
+  <p> {$= "time" "" @tparamGet $} </p>
+  <a href="/scripts/backChange.smscr">Odaberi sliku pozadine</a>
+ </tbody>
+ </table>
+ </body>
+</html>

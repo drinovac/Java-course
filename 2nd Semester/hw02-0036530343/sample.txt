@@ -1,0 +1,4 @@
+niska razina slučajnosti i kompleksnosti - NE - nismo postavilo restrikciju na duljinu lozinke
+Tijekom unosa paziti da netko ne otkrije lozinku - DA - unesene vrijednosti se ne prikazuju na zaslonu
+ispravna pohrana - DA - svakoj lozinki se prije hashiranja dodaje salt, iste zaporke razlicit hash
+presretanje lozinki - DA - lozinke se ne prenose na druge sustave

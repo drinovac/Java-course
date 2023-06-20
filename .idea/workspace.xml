@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb7ac1e4-4fe8-4e4c-98df-eeb2676b2a65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/hw01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/EmptyStackException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ObjectStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/StackDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/test/java/hr/fer/oprpp1/custom/collections/ArrayIndexedTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/src/test/java/hr/fer/oprpp1/custom/collections/LinkedListTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/EmptyStackException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ObjectStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/StackDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/hw01-0036530343-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/test-classes/hr/fer/oprpp1/custom/collections/ArrayIndexedTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01-0036530343/target/test-classes/hr/fer/oprpp1/custom/collections/LinkedListTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/hw02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ElementsGetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/EmptyStackException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ObjectStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/EvenIntegerTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementConstantDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementConstantInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/elems/ElementVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptLexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptLexerException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptLexerState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/lexer/SmartScriptTokenType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/DocumentNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/EchoNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/ForLoopNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/nodes/TextNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/hw02/SmartScriptTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/hw02/prob1/Lexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/hw02/prob1/LexerException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/hw02/prob1/LexerState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/hw02/prob1/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/main/java/hr/fer/oprpp1/hw02/prob1/TokenType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/java/hr/fer/oprpp1/hw02/prob1/Prob1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/src/test/resources/extra/primjer9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection$ElementsGetterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ElementsGetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ElementsGetterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/EvenIntegerTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementConstantDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementConstantInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/elems/ElementVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/DocumentNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/EchoNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/ForLoopNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/nodes/TextNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/custom/scripting/parser/SmartScriptParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/hw02/prob1/Lexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/hw02/prob1/LexerException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/hw02/prob1/LexerState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/hw02/prob1/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/classes/hr/fer/oprpp1/hw02/prob1/TokenType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/extra/primjer9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02-0036530343/target/test-classes/hr/fer/oprpp1/hw02/prob1/Prob1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/hw03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ElementsGetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/EmptyStackException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/ObjectStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/SimpleHashtable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/EvenIntegerTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/custom/collections/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/main/java/hr/fer/oprpp1/jmbag0036530343/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/test/java/hr/fer/oprpp1/custom/collections/DictionaryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/src/test/java/hr/fer/oprpp1/custom/collections/SimpleHashableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection$ElementsGetterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ArrayIndexedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Dictionary$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ElementsGetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/EmptyStackException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ElementsGetterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/LinkedListIndexedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/ObjectStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/SimpleHashtable$IteratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/SimpleHashtable$TableEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/SimpleHashtable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/EvenIntegerTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/custom/collections/demo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/classes/hr/fer/oprpp1/jmbag0036530343/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/test-classes/hr/fer/oprpp1/custom/collections/DictionaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw03-0036530343/target/test-classes/hr/fer/oprpp1/custom/collections/SimpleHashableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/database.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/hw04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/ComparisonOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/ConditionalExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/FieldValueGetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/IComparisonOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/IFieldValueGetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/IFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/QueryFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/QueryLexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/QueryParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/RecordFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/StudentDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/StudentRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/demo/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/hw04/db/demo/StudentDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/main/java/hr/fer/oprpp1/jmbag0036530343/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/src/test/java/hr/fer/oprpp1/hw04/db/StudentDatabaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ComparisonOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/ConditionalExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/FieldValueGetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/IComparisonOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/IFieldValueGetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/IFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/QueryFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/QueryLexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/QueryParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/RecordFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/StudentRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/hw04/db/demo/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/classes/hr/fer/oprpp1/jmbag0036530343/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest$1AlwaysFalse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest$1AlwaysTrue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw04-0036530343/target/test-classes/hr/fer/oprpp1/hw04/db/StudentDatabaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/hw05.crypted.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/hw05.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/hw05orig.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/hw05part2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/hw05part2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/hw05test.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/crypto/Crypto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/crypto/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/crypto/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/ArgumentSplitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/Environment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/MyShell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/ShellCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/ShellEnviornment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/ShellIOException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/ShellStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/CatCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/CharsetsCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/CopyCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/ExitCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/HelpCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/HexdumpCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/LsCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/MkdirCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/SymbolCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/commands/TreeCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/main/java/hr/fer/oprpp1/hw05/shell/shell.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/src/test/java/hr/fer/oprpp1/hw05/crypto/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/crypto/Crypto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/crypto/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/crypto/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/ArgumentSplitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/Environment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/MyShell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/ShellCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/ShellEnviornment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/ShellIOException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/ShellStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/CatCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/CharsetsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/CopyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/ExitCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/HelpCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/HexdumpCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/LsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/MkdirCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/SymbolCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/classes/hr/fer/oprpp1/hw05/shell/commands/TreeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw05-0036530343/target/test-classes/hr/fer/oprpp1/hw06/crypto/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/libraries/fractal_viewer_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/lib/fractal-viewer-1.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/lib/fractal-viewer-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/main/java/hr/fer/zemris/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/main/java/hr/fer/zemris/java/fractals/Newton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/main/java/hr/fer/zemris/java/fractals/NewtonParallel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/main/java/hr/fer/zemris/math/Complex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/main/java/hr/fer/zemris/math/ComplexPolynomial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/main/java/hr/fer/zemris/math/ComplexRootedPolynomial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/test/java/math/ComplexPolynomialTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/test/java/math/ComplexRootedPolynomialTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/src/test/java/math/ComplexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/java/fractals/Newton$NewtonProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/java/fractals/Newton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/java/fractals/NewtonParallel$NewtonParallelProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/java/fractals/NewtonParallel$PosaoIzracuna.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/java/fractals/NewtonParallel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/math/Complex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/math/ComplexPolynomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/classes/hr/fer/zemris/math/ComplexRootedPolynomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/hw06-0036530343-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/test-classes/math/ComplexPolynomialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/test-classes/math/ComplexRootedPolynomialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw06-0036530343/target/test-classes/math/ComplexTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/chartDescription.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/oprpp1/jmbag0036530343/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p01/OtvaranjeProzora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p02/OtvaranjeProzora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p03/Prozor1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p04/Prozor1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p04/Prozor2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p05/MojLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p05/Prozor1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p05/Prozor2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p06/Prozor1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p07/Prozor1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p09/Prozor2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p10/Prozor3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p11/Prozor4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p12/Prozor5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p13/Prozor6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p15/Prozor7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p15/Prozor7b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/swing/p16/Prozor8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/CalcModelImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/Calculator/CalcButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/Calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/Calculator/TrigButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/model/CalcModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/model/CalcValueListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/calc/model/CalculatorInputException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/charts/BarChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/charts/BarChartComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/charts/BarChartDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/charts/XYValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/layout/CalcLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/layout/CalcLayoutException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/layout/RCPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/layout/demo/DemoFrame1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/prim/PrimDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/main/java/hr/fer/zemris/java/gui/prim/PrimListModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/src/test/java/hr/fer/zemris/java/gui/calc/CalcModelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/oprpp1/jmbag0036530343/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p01/OtvaranjeProzora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p02/OtvaranjeProzora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p03/Prozor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor2$BorderDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p04/Prozor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/MojLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/Prozor1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/Prozor1$Elipticna.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/Prozor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/Prozor2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/Prozor2$Elipticna.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p05/Prozor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p06/Prozor1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p06/Prozor1$Sat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p06/Prozor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p07/Prozor1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p07/Prozor1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p07/Prozor1$Sat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p07/Prozor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p09/Prozor2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p09/Prozor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p10/Prozor3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p10/Prozor3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p11/Prozor4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p11/Prozor4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p12/Prozor5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p12/Prozor5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p13/Prozor6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p15/Prozor7$DemoListModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p15/Prozor7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p15/Prozor7b$DemoListModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p15/Prozor7b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p16/Prozor8$Komponenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/swing/p16/Prozor8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/CalcModelImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/Calculator/CalcButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/Calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/Calculator/TrigButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/model/CalcModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/model/CalcValueListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/calc/model/CalculatorInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/charts/BarChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/charts/BarChartComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/charts/BarChartDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/charts/XYValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/layout/CalcLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/layout/CalcLayoutException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/layout/RCPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/layout/demo/DemoFrame1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/prim/PrimDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/classes/hr/fer/zemris/java/gui/prim/PrimListModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/test-classes/hr/fer/zemris/java/gui/calc/CalcModelTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/test-classes/hr/fer/zemris/java/gui/calc/CalcModelTest$DummyCalcModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw07-0036530343/target/test-classes/hr/fer/zemris/java/gui/calc/CalcModelTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HPRPuIVnUoN1gMlzPzAwFZZSOk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb7ac1e4-4fe8-4e4c-98df-eeb2676b2a65" name="Changes" comment="" />
+      <created>1668184712145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668184712145</updated>
+      <workItem from="1668184713601" duration="204000" />
+      <workItem from="1669899997207" duration="1254000" />
+      <workItem from="1669901679203" duration="21000" />
+      <workItem from="1675003034867" duration="1135000" />
+      <workItem from="1687251737539" duration="329000" />
+    </task>
+    <task id="LOCAL−00001" summary="Initial commit">
+      <created>1668184745470</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1668184745470</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Initial commit">
+      <created>1675003163523</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1675003163523</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Initial commit">
+      <created>1675003198254</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1675003198254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>

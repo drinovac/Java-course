@@ -1,0 +1,10 @@
+{$= "text/html" @setMimeType $}
+<html>
+ <head>
+ <title>Color change</title>
+ </head>
+ <body>
+ <a href="/mi/vrijeme?bgimage=images/tree.jpg"><img src="/images/tree.jpg"><br>
+ <a href="/mi/vrijeme?bgimage=images/sunset.jpg"><img src="/images/sunset.jpg"><br>
+ </body>
+</html>

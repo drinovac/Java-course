@@ -1,0 +1,46 @@
+{$= "text/html" @setMimeType $}
+<html>
+ <head>
+ <title>Problem 8.</title>
+ <style>
+    body \{ background-color: #{$= "background" "FFFFFF" @tparamGet $}; }
+  </style>
+ </head>
+ <body>
+ <h1>Domaća zadaca 2 - Linkovi</h1>
+
+
+ <a href="/scripts/osnovni.smscr">Posjeti osnovni</a><br>
+ <a href="/scripts/brojPoziva.smscr">Posjeti brojPoziva</a><br>
+ <a href="/scripts/fibonaccih.smscr">Posjeti fibonaccih</a><br>
+
+ <a href="/hello">Posjeti HelloWorker</a><br>
+ <a href="/cw">Posjeti CircleWorker</a><br>
+
+ <br><br>
+
+ <form method="get" action="/calc">
+    <label for="a">First num:</label>
+    <input type="text" id="a" name="a"><br>
+    <label for="b">Second num:</label>
+    <input type="text" id="b" name="b"><br>
+    <input type="submit" value="Submit">
+ </form>
+
+ <br><br>
+
+ <label>Choose a color:</label>
+    <select name="bgcolor" form="color">
+        <option value="FF0000">Red</option>
+        <option value="FFFFFF">White</option>
+        <option value="0000FF">Blue</option>
+        <option value="00FF00">Green</option>
+        <option value="FFFF00">Yellow</option>
+    </select>
+
+   <form action="/setbgcolor" method="get" id="color">
+   <input type="submit">
+   </form>
+
+ </body>
+</html>
